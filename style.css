@@ -277,7 +277,7 @@ address {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding: 20px;
+  padding: 24px;
   gap: 12px;
 }
 .sus form button {
@@ -301,7 +301,7 @@ address {
 }
 .sus form input {
   margin-top: 12px;
-  width: 420px;
+  width: 380px;
   height: 40px;
   border-radius: 4px;
   border: 1px solid #d4631d;
